@@ -1,0 +1,144 @@
+
+ li{
+    list-style-type: none;
+    display: inline;
+    /* padding: 5px; */
+    margin-left: 300px;
+    
+
+}
+
+.purple{
+    background-color: blueviolet;
+}
+#pur{
+    margin-left: 900px;
+    width: 650px;
+    height: 700px;
+}
+.inpurple{
+    margin-top: -20%;
+    margin-left: 20%;
+}
+.dis{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 70px;
+    padding-left: 70px;
+    background-color: palevioletred;
+}
+.three{
+    font-size: 50px;
+    font-weight: 50px;
+    color: white;
+}
+.numeros{
+    display: inline-flex;
+    gap: 20px;
+}
+#no1,#no2,#no3,#no4,#no5{
+    width: 490px;
+    height: 600px;
+}
+.check{
+    display: inline-flex;
+    gap: 40px;
+    margin-left: 45%;
+}
+.week{
+    margin-bottom: 0%;
+}
+.one{
+    color: gray;
+    margin-left: 45%;
+}
+.end{
+    margin-top: -22%;
+    margin-left: 40%;
+}
+#end{
+    width: 1200px;
+    height: 500px;
+}
+.ten{
+margin-top: -55%;
+margin-left: 40%;
+}
+#ten{
+    width: 1200px;
+    height: 500px;
+}
+#got{
+    width: 800px;
+    height: 1020px;
+}
+.casual{
+    margin-left: 50%;
+    margin-top: 20%;
+}
+.thelit{
+    margin-top: -10%;
+}
+.lastpic{
+    background-color: bisque;
+    height: 600px;
+}
+#wowe1{
+    width: 1000px;
+    height: 600px;
+    margin-left: 25%;
+}
+.footer{
+    display: inline-flex;
+    background-color: azure;
+    gap: 415px;
+}
+.footer1,.footer2,.footer3,.footer4{
+    font-size: 20px;
+}
+.play{
+    margin-left: 50%;
+    font-size: 200px;
+    margin-top: -20%;
+}
+.shop{
+    margin-left: 30%;
+    font-size: 30px;
+    margin-top: 5%;
+}
+.now2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 70px;
+    padding-left: 70px;
+    background-color: palevioletred;
+}
+.now1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 70px;
+    padding-left: 70px;
+    background-color: palevioletred;
+}
+#last22{
+    margin-left: 30%;
+    width: 1000px;
+    
+}
+.pink{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    background-color: palevioletred;
+}
+.pink2{
+    margin-left: 40%;
+}
+.sub{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    background-color: palevioletred; 
+}
