@@ -1,8 +1,7 @@
 
- li{
+ nav li{
     list-style-type: none;
     display: inline;
-    /* padding: 5px; */
     margin-left: 300px;
     
 
@@ -13,7 +12,7 @@
 }
 #pur{
     margin-left: 900px;
-    width: 650px;
+    width: 700px;
     height: 700px;
 }
 .inpurple{
@@ -141,4 +140,103 @@ margin-left: 40%;
     padding-right: 80px;
     padding-left: 80px;
     background-color: palevioletred; 
+}
+@media (max-width:768px){
+    nav li{
+        margin-left: 0;
+        display: block;
+        text-align: center;
+        padding: 10px;
+        border-bottom: 1px solid black;
+    }
+    .purple{
+        background-color: darkorchid;
+    }
+    .purple,#pur{
+        max-width: 100%;
+        height: auto;
+    }
+    .inpurple{
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .numeros{
+        display: block;
+        text-align: center;
+    }
+    .numeros img{
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .dis{
+        padding: 20px;
+    }
+    .three{
+        font-size: 30px;
+        font-weight: normal;
+    }
+    .footer{
+        gap: 50px;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .lastpic{
+        background-color: bisque;
+        height: 400px;
+    }
+    #got{
+        width: 400px;
+        height: 510px;
+    }
+    #ten{
+
+    }
+    #last22{
+        margin-left: 10%;
+        width: 80%;
+    }
+    .shop{
+        margin-left: 10%;
+        font-size: 20px;
+        margin-top: 2%;
+    }
+    #pur{
+        margin-left: 100px;
+        width: 400px;
+        height: 400px;
+    }
+    #no1,#no2,#no3,#no4,#no5{
+        width: 100%;
+        height: auto;
+    }
+    .check{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    #wowe1{
+        width: 500px;
+        height: 300px;
+        margin-left: 10%;
+    }
+    .play{
+        margin-left: 25%;
+        font-size: 100px;
+        margin-top: -10%;
+    }
+    .thelit{
+        margin-top: -5%;
+    }
+}
+@media screen and (max-width:1024px){
+    #ten{
+        width: 800px;
+        height: 340px;
+    }
+    #end{
+        width: 800px;
+        height: 340px;
+    }
 }
